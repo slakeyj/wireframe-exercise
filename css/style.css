@@ -21,8 +21,6 @@ nav li {
   border-radius: 8px;
 }
 
-
-
 main{
   text-align: center;
 }
@@ -42,12 +40,14 @@ article {
   font-size: 20px;
   margin-bottom: 100px;
 }
+
 article p {
   margin-bottom: 15px;
 }
+
 button {
   width: 150px;
-  height: 30px;
+  height: 35px;
   border: 1px solid black;
   background-color: black;
   color: white;
@@ -55,15 +55,15 @@ button {
   font-size: 16px;
   margin-top: -70px;
   float: right;
-  margin-right: 520px;
+  margin-right: 530px;
 }
 
 /* Source:  Peter Carimichael, slack */
 button:hover {
   background-color: rgb(57, 127, 135);
-  transition: background-color 350ms;
-   
+  transition: background-color 350ms; 
 }
+
 footer {
   width: 100%;
   background-color: rgb(70, 71, 72);
